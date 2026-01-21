@@ -39,11 +39,6 @@ pip install -r requirements.txt
 ```bash
 cp .env.example .env
 ```
-
-### 4. Configure Environment Variables
-```bash
-cp .env.example .env
-```
 Add your OpenAI API key to .env.
 
 ### 5. Run Application
