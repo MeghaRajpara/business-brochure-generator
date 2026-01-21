@@ -4,3 +4,4 @@ __pycache__/
 brochure_files/
 .ipynb_checkpoints/
 venv/
+.DS_Store
